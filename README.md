@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Ahmed, and I'm a researcher interested in all things AI & ML!
+
+- 🔭 I’m currently working on Large Language Models (LLMs), building everything from pretrained models, to RAG systems.
+- 🌱 I’m currently learning Agentic AI
+
 <!--
 **AITheChillGuy/AITheChillGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
